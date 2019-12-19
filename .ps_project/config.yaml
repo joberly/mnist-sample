@@ -1,5 +1,6 @@
 version: 2
 workflows:
+  testAnotherBadWF: 1
   testBadWF: "xyz"
   testwf:
     steps:
