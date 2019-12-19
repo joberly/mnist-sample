@@ -1,5 +1,6 @@
 version: 2
 workflows:
+  testBad: "xyz"
   testwf:
     steps:
       - name: testexp
