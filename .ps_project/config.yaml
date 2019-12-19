@@ -1,6 +1,6 @@
 version: 2
 workflows:
-  testwf:
+  testwf1:
     steps:
       - name: testexp
         triggers:
